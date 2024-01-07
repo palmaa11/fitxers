@@ -39,3 +39,6 @@ https://www.mecabricks.com/en/models/eDa5KorMjzg
 
 roadside gas station:
 https://www.mecabricks.com/en/models/KbjQ1RzYjdG
+
+lollipop:
+https://www.mecabricks.com/en/models/kOjLX85pjx6
