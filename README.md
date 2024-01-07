@@ -36,3 +36,6 @@ https://www.mecabricks.com/en/models/Z79a830Kv8w
 
 telefon:
 https://www.mecabricks.com/en/models/eDa5KorMjzg
+
+roadside gas station:
+https://www.mecabricks.com/en/models/KbjQ1RzYjdG
